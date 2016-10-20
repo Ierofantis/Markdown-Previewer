@@ -1,8 +1,8 @@
 # Markdown previewer on React for Freecode Camp
 
-To run it:
+To run it locally go to CMD:
 
-cd markdown
+cd ..etc../markdown
 
 npm install
 
