@@ -1,4 +1,6 @@
-# Markdown previewer
+# Markdown previewer on React for Freecode Camp
+
+To run it:
 
 cd markdown
 
